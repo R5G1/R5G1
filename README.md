@@ -21,11 +21,9 @@
 
 - ### CV: https://r5g1-cv.netlify.app/
 
-- ### Portfolio: https://github.com/R5G1/Portfolio
-
 ---
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/vladislav-klimashevsky-a96918230/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/R5G0101011)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/R5G0101011)
 
 
 
